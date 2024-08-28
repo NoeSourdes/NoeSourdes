@@ -20,7 +20,7 @@ function generateNewREADME() {
   const identifierToUpdate = {
     day_before_new_years: getDBNWSentence(),
     today_date: getTodayDate(),
-    rabot_signing: getGabotSigning(),
+    rabot_signing: getRabotSigning(),
   };
 
   Object.entries(identifierToUpdate).forEach(([key, value]) => {
@@ -40,7 +40,7 @@ const moodByDay = {
   7: "love",
 };
 
-function getGabotSigning() {
+function getRabotSigning() {
   const mood = moodByDay[today.getDay() + 1];
   return `🤖 This README.md is updated with ${mood}, by Rabot ❤️`;
 }
