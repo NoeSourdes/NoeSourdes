@@ -2,6 +2,8 @@ name: Update README all day at 05:52
 
 on:
   push:
+    branches:
+      - main
   workflow_dispatch:
   schedule:
     - cron: "52 5 * * *"
