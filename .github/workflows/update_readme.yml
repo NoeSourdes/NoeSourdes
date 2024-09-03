@@ -6,7 +6,7 @@ on:
       - main
   workflow_dispatch:
   schedule:
-    - cron: "*/2 * * * *"
+    - cron: "52 5 * * *"
 
 jobs:
   update-readme:
