@@ -15,8 +15,8 @@ Hello, I'm Noé Sourdès, a passionate web developer on an endless quest for lea
 * [C.V](https://www.noesourdes.fr/cv.pdf)
 
 
-Last update on Fri Oct 11 2024
+Last update on Sat Oct 12 2024
 
-**82 day before 2025 ⏱** days before new years
+**81 day before 2025 ⏱** days before new years
 
-🤖 This README.md is updated with horror, by Rabot ❤️
+🤖 This README.md is updated with love, by Rabot ❤️
