@@ -8,12 +8,11 @@ Hello, I'm Noé Sourdès, a passionate web developer on an endless quest for lea
 
 ### Contact me
 
-* [Twitter](https://twitter.com/NoeSourdes19)
-* [Github](https://github.com/NoeSourdes)
-* [Mail](mailto:contact@noesourdes.fr)
-* [Linkedin](https://www.linkedin.com/in/noesourdes-fr/)
-* [C.V](https://www.noesourdes.fr/cv.pdf)
-
+- [Twitter](https://twitter.com/NoeSourdes19)
+- [Github](https://github.com/NoeSourdes)
+- [Mail](mailto:contact@noesourdes.fr)
+- [Linkedin](https://www.linkedin.com/in/noesourdes-fr/)
+- [C.V](https://www.noesourdes.fr/cv.pdf)
 
 Last update on Thu Nov 07 2024
 
